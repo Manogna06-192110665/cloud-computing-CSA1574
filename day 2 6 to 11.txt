@@ -1,0 +1,74 @@
+﻿vmware day 2
+Experiment 6:-
+Aim:-
+To Demonstrate virtualization by Installing Type-2 Hypervisor in your device, create and
+configure VM image with a Host Operating system (Either Windows/Linux).
+Procedure :
+STEP 1: Download vmware  workstation and installed as vmware 2 hypervisor
+STEP2: Download UBUNTU or TINY OS as ISO image file
+STEP 3: In vmware workstation -> create new vm
+STEP 4: Do the basic configuration settings
+STEP 5: Created  TINYOS virtual machine
+STEP 6: Launch the VM
+
+
+Experiment 7:-
+
+AIM:-
+To create a virtual machine with 1 VCPU,2GB RAM and 15GB storage disk using  a type 2 virtualization software
+procedure :
+STEP 1: Go to VMWARE work
+STEP2: RIGHT CLICK THE VM AND GOTO THE SETTINGS
+STEP 3: Add hardware wizard and select SCSI and next
+STEP 4: Create new virtual disk
+STEP 5: Select the disk size as 2.0 and select split virtual disk into multi files.
+STEP 6: Give name and click the finish
+
+
+Experiment 8:-
+Aim:-
+TO CREATE A VIRTUAL HARD DISK AND ALLOCATE THE STORAGE USING VM WARE WORKSTATION
+
+procedure :
+STEP 1: GOTO VMWARE WORKSTATION
+STEP2: RIGHT CLICK THE VM AND GOTO THE SETTINGS
+STEP 3: ADD HARDWARE WIZARD AND SELECT SCSI AND CLICK NEXT
+STEP 4: CREATE NEW VIRTUAL DISK
+STEP 5: SELCT THE DISK SIZE AS 2.0. AND SELCT SPLIT VIRTUAL DISK INTO MULTIFILES.
+STEP 6: GIVE NAME AND CLICK THE FINISH
+
+
+
+Experiment 9:-
+Aim:-
+CREATE A SNAPSHOT AND CLONING OF A VM AND TEST IT BY LOADING THE PREVIOUS
+VERSION/CLONED VM.
+procedure :
+STEP 1: GOTO VMWARE WORKSTATION
+STEP 2: CREATE FILES ON DESKTOP
+STEP 2: CLICK ON VM AND SELECTS SNAPSHOT-> TAKE SNAPSHOT.
+STEP 4: SNAPSHOT IS BEING DONE
+
+
+Experiment 10:-
+Aim:-
+CREATE A CLONING OF A VM AND TEST IT BY LOADING THE PREVIOUS VERSION/CLONED
+VM
+procedure :
+STEP 1: GO TO VM AND GOTO MANAGE AND CLICK CLONE
+STEP 2: CLICK CLONE
+STEP 3: SELECT THE FULL CLONE
+STEP 4: AFTER CLONE AGAIN OR VM IS OPENED
+
+
+Experiment 11:-
+Aim:-
+Change Hardware compatibility of a VM (Either by clone/create new one) which is already
+created and configured.
+procedure :
+STEP 1: GO TO VM AND GOTO MANAGE
+STEP 2: CLICK ON CHANGE HARDWARE COMPATIBILITY
+STEP 3: CHOOSE THE HARDWARE COMPATIBILITY
+STEP 4: NAME THE CLONE
+STEP 5:THE HARDWARE COMPATIBILITY IS CHANGE SUCCESSFULL
+
