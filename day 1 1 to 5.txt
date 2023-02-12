@@ -1,0 +1,130 @@
+﻿zoho - day 1
+
+
+
+
+Experiment 1:-
+
+AIM :-
+To create a simple cloud software application and provide it as a service using any cloud service provider to demponstrate software as a service (SAAS).
+
+Procedure:-
+
+1. goto zoho.com
+2. login to the zoho.com
+3. select one application.
+4. Enter application name.
+5. Create new application.
+6. select a template/create scratch of own.
+7. drag the fields and drop .[if required change the field name.]
+8. click on the DONE option.
+9. software has been created.
+
+Implementation:-
+
+
+
+
+
+
+
+
+
+
+Experiment 2:-
+
+AIM :-
+
+To create a simple software  application for flight reservation system using any cloud service provider  to demonstrate SaaS
+
+Procedure:-
+
+1. goto zoho.com
+2. login to the zoho.com
+3. select one application.
+4. enter application name.
+5. Create new application.
+6. select a template/create scratch of own.
+7. drag the fields and drop .[if required change the field name.]
+8. click on the DONE option.
+9. software has been created.
+
+
+Implementation:-
+
+
+
+
+
+EXPERIMENT 3
+
+Aim:-
+To Create a simple cloud software application for Property Buying & Rental process (In
+Chennai city) using any Cloud Service Provider to demonstrate SaaS.
+
+Procedure:-
+
+1. goto zoho.com
+2. login to the zoho.com
+3. select one zoho form.
+4. enter form name.
+5. Create new form.
+6. select a template/create scratch of own.
+7. drag the fields and drop .[if required change the field name.]
+8. click on the DONE option.
+9. software has been created
+
+
+
+
+
+
+
+
+EXPERIMENT 4
+
+Aim:-
+Create a simple cloud software application for Car Booking Reservation System using any
+Cloud Service Provider to demonstrate SaaS.
+
+Procedure:-
+
+1. goto zoho.com
+2. login to the zoho.com
+3. select one application.
+4. enter application name.
+5. Create new application.
+6. select a template/create scratch of own.
+7. drag the fields and drop .[if required change the field name.]
+8. click on the DONE option.
+9. software has been created
+
+
+
+
+
+
+Experiment 5:-
+
+Aim:-
+To Create a simple cloud software application for Library book reservation system for SIMATS
+library using any Cloud Service Provider to demonstrate SaaS.
+
+Procedure:-
+
+1. goto zoho.com
+2. login to the zoho.com
+3. select one zoho form.
+4. enter form name.
+5. Create new form.
+6. select a template/create scratch of own.
+7. drag the fields and drop .[if required change the field name.]
+8. click on the DONE option.
+9. software has been created
+
+
+
+
+
+
+
